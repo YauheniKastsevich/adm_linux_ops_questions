@@ -325,7 +325,7 @@ Kubelet использует **Startup** пробы, чтобы понять, к
 
 </details>
 
-26. Чем отличаются *Taints* и *Tolerations* от *Node Afiinity*?
+26. Чем отличаются *Taints* и *Tolerations* от *Node Affiinity*?
 
 <details>
   <summary>Ответ</summary>
